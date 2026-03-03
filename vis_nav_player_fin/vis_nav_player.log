@@ -1,0 +1,19 @@
+04-Dec-25 18:46:38 - INFO: player.py is using vis_nav_game 1.2.5
+04-Dec-25 18:46:39 - INFO: vis_nav_game.core version=1.2.5
+04-Dec-25 18:46:39 - INFO: init from /Users/jotheeshkummathi/Desktop/NYUSA/Semester 3/Robotperception/vis_nav_player/startup.json: {'ESSENTIAL_FILE_ID': '1CvIOxnKO8Z8NDBh-kKOpUuWEgPinLLSV', 'MAZE_FILE_MD5_KEY': '70c9054b84fd8908f5cd6bb48b50af33', 'MAZE_FILE_ID': '1n1hEd8GZfEos29hmzJ6-yUr7IjEdX6S4'}
+04-Dec-25 18:46:39 - INFO: data_dir=/Users/jotheeshkummathi/Desktop/NYUSA/Semester 3/Robotperception/vis_nav_player/data
+04-Dec-25 18:46:39 - INFO: Pass checking essential files
+04-Dec-25 18:46:39 - INFO: Verified /Users/jotheeshkummathi/Desktop/NYUSA/Semester 3/Robotperception/vis_nav_player/data/maze.json
+04-Dec-25 18:46:39 - INFO: save_dir=/Users/jotheeshkummathi/Desktop/NYUSA/Semester 3/Robotperception/vis_nav_player/data/save
+04-Dec-25 18:46:39 - INFO: Start loading the map
+04-Dec-25 18:46:39 - INFO: Init rules from {'NAV_START_TIME': 1764891000.0, 'NOISY_MOTION': 1}
+04-Dec-25 18:46:39 - INFO: NAV_START_TIME set to 2025/12/04 18:30:00
+04-Dec-25 18:46:40 - INFO: Internet time fetched from 0.pool.ntp.org: 1764891999.9774146
+04-Dec-25 18:46:40 - INFO: System time=1764891999.949035, Internet time=1764891999.9774146, diff=0.02837967872619629
+04-Dec-25 18:46:40 - INFO: NOISY_MOTION set to 1
+04-Dec-25 18:46:40 - INFO: Loaded rules for competition!
+04-Dec-25 18:46:53 - INFO: Finished loading the map: takes 13.621551990509033 s
+04-Dec-25 18:46:55 - INFO: Target Images processing completed.
+04-Dec-25 18:46:55 - INFO: EXPLORATION phase passed. Proceeding to NAVIGATION phase.
+04-Dec-25 18:47:44 - INFO: Saving the game, please wait...
+04-Dec-25 18:47:44 - INFO: Game saved successfully at /Users/jotheeshkummathi/Desktop/NYUSA/Semester 3/Robotperception/vis_nav_player/data/save/game-20251204-184744.npy.
